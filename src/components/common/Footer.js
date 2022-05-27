@@ -8,6 +8,7 @@ function Footer() {
     arrows: false,
     autoplay: true,
     autoplaySpeed: 2000,
+    adaptiveHeight: true,
     infinite: true,
     speed: 500,
     slidesToShow: 3,
