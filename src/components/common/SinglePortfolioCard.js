@@ -6,7 +6,9 @@ function SinglePortfolioCard({ portfolio }) {
       <img src={portfolio.image} alt="Avatar" className="image" />
 
       <div className="text">
-        <h4>{portfolio.company}</h4>
+        <h4>
+        {portfolio.company}
+        </h4>
         <h5>{portfolio.service}</h5>
       </div>
     </div>

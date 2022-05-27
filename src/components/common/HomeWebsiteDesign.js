@@ -1,4 +1,6 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+
 
 function HomeWebsiteDesign() {
   return (
@@ -25,7 +27,9 @@ function HomeWebsiteDesign() {
               </p>
               <p></p>
               <div className="read-more">
-                <button className="btn btn-readmore">READ MORE</button>
+                <Link to="/services/website-design-and-development">
+                  <button className="btn btn-readmore">READ MORE</button>
+                </Link>
               </div>
             </div>
           </div>

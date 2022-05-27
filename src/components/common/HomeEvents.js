@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function HomeEvents() {
   return (
@@ -23,7 +24,9 @@ function HomeEvents() {
               </p>
               <p></p>
               <div className="read-more">
-                <button className="btn btn-readmore">READ MORE</button>
+                <Link to="/services/video-production">
+                  <button className="btn btn-readmore">READ MORE</button>
+                </Link>
               </div>
             </div>
           </div>

@@ -20,9 +20,9 @@ function HomeAdvertising() {
               </p>
 
               <div className="read-more">
-              <Link to=" /services/digital-marketing">
-              <button className="btn btn-readmore">READ MORE</button>
-              </Link>    
+                <Link to="/services/digital-marketing">
+                  <button className="btn btn-readmore">READ MORE</button>
+                </Link>
               </div>
             </div>
           </div>

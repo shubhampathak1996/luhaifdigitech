@@ -856,7 +856,7 @@ h3 {
   font-weight: 600;
   font-size: 15px;
 }
-.text h4::after {
+/* .text h4::after {
   content: '';
   width: 100px;
   height: 1px;
@@ -865,7 +865,7 @@ h3 {
   text-align: center;
   bottom: -10px;
   background: #fff;
-}
+} */
 .website-design {
   background: #d53946;
   position: relative;

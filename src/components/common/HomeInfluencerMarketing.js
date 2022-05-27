@@ -1,4 +1,6 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+
 
 function HomeInfluencerMarketing() {
   return (
@@ -18,7 +20,9 @@ function HomeInfluencerMarketing() {
               </p>
               <p></p>
               <div className="read-more">
-                <button className="btn btn-readmore">READ MORE</button>
+                <Link to="/services/influencer-marketing">
+                  <button className="btn btn-readmore">READ MORE</button>
+                </Link>
               </div>
             </div>
           </div>
