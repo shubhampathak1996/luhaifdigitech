@@ -11,6 +11,7 @@ body {
   outline: 0;
   font-size: 15px;
   overflow: inherit;
+  position: relative;
   line-height: 1.7em;
   font-weight: 400;
   color: var(--primary-color);
