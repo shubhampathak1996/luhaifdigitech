@@ -75,7 +75,7 @@ function Footer() {
                 </div>
                 <div className="media">
                   <a
-                    href="https://www.mid-day.com/brand-media/article/perseverance-is-what-has-finally-enabled-luhaif-digitech-to-celebrate-a-big-milestone-of-8-years-in-the-marketing-industry-saif-ahmad-khan-founder-23222425"
+                    href="https://postmannews.com/elevate-your-business-through-digital-marketing-mr-saif-ahmad-khan-founder-luhaif-digitech/"
                     target="_blank"
                   >
                     <img src="/assets/images/media_3.png" />

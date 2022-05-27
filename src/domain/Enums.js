@@ -12,6 +12,10 @@ export const SERVICE_MENU = [
     link: 'website-design-and-development',
   },
   {
+    name: 'Social Media',
+    link: 'social-media',
+  },
+  {
     name: 'NGO Fundraising Campaigns',
     link: 'ngo-fundraising-campaigns',
   },
@@ -32,11 +36,12 @@ export const SERVICE_MENU = [
     link: 'crm-and-lead-management-solutions',
   },
   {
-    name: 'Search Engine Optimisation',
-    link: 'search-engine-optimisation',
-  },
-  {
     name: 'Nidhi Software',
     link: 'nidhi-software',
   },
+  {
+    name: 'Search Engine Optimisation',
+    link: 'search-engine-optimisation',
+  },
+  
 ]
