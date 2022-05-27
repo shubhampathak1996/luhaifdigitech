@@ -65,7 +65,7 @@ function InfluencerMarketing() {
                 <div className="row pt-50">
                   <div className="col-md-6">
                     <div className="services-image">
-                      <img src="/assets/images/social-media.jpg" />
+                      <img src="/assets/images/socialmedia_marketingg.png" />
                     </div>
                   </div>
                   <div className="col-md-6">
