@@ -1,0 +1,423 @@
+@media screen and (min-width: 768px) {
+  .filter-item li.active,
+  .filter-item li {
+    width: 33.33%;
+  }
+
+  h2 {
+    font-size: 190%;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .filter-item li.active,
+  .filter-item li {
+    width: 25%;
+  }
+
+  h2 {
+    font-size: 270%;
+  }
+}
+@media (max-width: 1220px) {
+  .about-content h1 {
+    font-size: 40px;
+    font-weight: 100;
+    line-height: 60px;
+    letter-spacing: 0em;
+  }
+  .luhaif-content h2 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  .single-logo {
+    border: 1px solid #f1f1f1;
+    flex: 1;
+    text-align: center;
+  }
+  .media img {
+    height: 70px;
+    width: auto;
+  }
+  .social-main span {
+    display: none;
+  }
+  .sec-heading h2::after {
+    content: '';
+    position: absolute;
+    width: 50px;
+    text-align: center;
+    bottom: -15px;
+    background: var(--primary-color);
+    height: 5px;
+    left: 40%;
+  }
+  .services-image img {
+    max-width: 100%;
+    border-radius: 10px;
+    height: auto;
+    margin-bottom: 20px;
+    width: auto;
+  }
+  .ptb-70 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .social-main a {
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 10px;
+  }
+  .social-main a {
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 10px;
+  }
+  .about-content h3 {
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 0em;
+  }
+  .sec-headingg h2 {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #fff;
+  }
+
+  .showmobile {
+    display: block;
+    margin-top: -20px;
+  }
+  .hidemobile {
+    display: none;
+  }
+  .ceo-content h2 {
+    font-size: 25px;
+    color: #000;
+    font-weight: 800;
+  }
+  .ceo-content {
+    margin-top: 30px;
+  }
+  .faq-pt-50 {
+    margin-top: 20px;
+  }
+  .ceo-content span {
+    color: var(--primary-color);
+    font-size: 27px;
+    color: var(--primary-color);
+    font-weight: 800;
+    line-height: 45px;
+  }
+  .box {
+    background: #fff;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 20px 5px;
+  }
+  .navbar .nav-btn {
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  }
+  .navbar .nav-btn label {
+    display: inline-block;
+    width: 80px;
+    height: 70px;
+    padding: 25px;
+  }
+  .navbar .nav-btn label span {
+    display: block;
+    height: 10px;
+    width: 25px;
+    border-top: 3px solid #eee;
+  }
+  .navbar .nav-btn label:hover,
+  .navbar #nav-check:checked ~ .nav-btn label {
+    background-color: var(--primary-color);
+  }
+  .service-box-image {
+    position: absolute;
+    bottom: 77%;
+    right: 35%;
+    text-align: center;
+  }
+  .sec-heading h2 {
+    font-size: 25px;
+    color: #000;
+    font-weight: 800;
+    margin-bottom: 48px;
+    line-height: 50px;
+    text-align: center;
+  }
+  .navbar .nav-links {
+    position: absolute;
+    display: block;
+    text-align: center;
+    z-index: 9;
+    width: 100%;
+    background-color: var(--primary-color);
+    transition: all 0.3s ease-in;
+    overflow-y: hidden;
+    top: 75px;
+    right: 0px;
+  }
+  .navbar .nav-links a {
+    display: block;
+  }
+
+  /* when nav toggle button not checked */
+  .navbar #nav-check:not(:checked) ~ .nav-links {
+    height: 0px;
+  }
+
+  /* when nav toggle button is checked */
+  .navbar #nav-check:checked ~ .nav-links {
+    height: calc(100vh - 70px);
+    overflow-y: auto;
+  }
+  .navbar .nav-links .loginBtn {
+    padding: 10px 40px;
+    margin: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(9, 14, 90);
+  }
+  .brand {
+    position: absolute;
+    padding-left: 20px;
+    float: left;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-size: 1.4em;
+  }
+  .brand img {
+    height: 40px;
+    width: auto;
+  }
+  .top-bar {
+    /* background: #000; */
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background: rgba(0, 0, 0, 0.6);
+    box-shadow: 0 8px 32px 0 rgb(0 0 0 / 37%);
+    backdrop-filter: blur(4px);
+    z-index: 5;
+    /* position: relative; */
+  }
+  .sec-heading h2 {
+    font-size: 25px;
+    color: #000;
+    font-weight: 800;
+    margin-bottom: 20px;
+    line-height: 20px;
+    text-align: center;
+  }
+  .main-holder {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .luhaif-content h2 span {
+    font-size: 1.8rem !important;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: var(--primary-color);
+  }
+  .page-banner {
+    background-size: cover;
+    position: relative;
+    color: var(--primary-color);
+    background-color: #eeeeee;
+    text-align: left;
+    height: 120px;
+    z-index: 2;
+  }
+  #accordion-1 .head h2 {
+    font-size: 15px !important;
+  }
+  #accordion-1 .arrow {
+    color: #ed1f24;
+    font-size: 40px;
+    transition: 0.25s ease;
+    opacity: 1;
+    transform: rotate(-90deg);
+  }
+  .ptb-50 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .page-banner h1 {
+    position: relative;
+    font-size: 25px;
+    line-height: 1em;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: var(--primary-color);
+    text-transform: capitalize;
+  }
+  .page-content {
+    padding-top: 70px;
+  }
+  .website-design-img {
+    display: none;
+  }
+  .influencer-marketing-img {
+    display: none;
+  }
+  .advertising-img {
+    display: none;
+  }
+  .advertising h2 {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 0em;
+  }
+  .website-design h2 {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 0em;
+  }
+  .influencer-marketing h2 {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 0em;
+  }
+  .events-img-nor {
+    display: none;
+  }
+  .btn-all {
+    width: 100% !important;
+  }
+  .creative-button {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .sec-heading span {
+    color: var(--primary-color);
+    font-size: 25px;
+    line-height: 40px;
+    color: var(--primary-color);
+    font-weight: 800;
+
+    text-align: center;
+  }
+  .ptb-80 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .pointer h3 {
+    color: var(--primary-color);
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-weight: 600;
+  }
+  .lets-work h2 {
+    font-size: 30px;
+    color: #000;
+    font-style: normal;
+    font-weight: 700;
+
+    letter-spacing: 0em;
+  }
+  .testimonial-content h2 {
+    font-size: 30px;
+    color: #fff;
+    font-style: normal;
+    font-weight: 700;
+
+    letter-spacing: 0em;
+  }
+
+  @media only screen and (max-width: 800px) {
+    .nav-mobile {
+      display: block;
+    }
+    nav {
+      width: 100%;
+      padding: 45px 0 15px;
+      position: absolute;
+      top: 15px;
+      right: 0;
+    }
+
+    nav ul {
+      display: none;
+    }
+    nav ul li {
+      float: none;
+    }
+    nav ul li a {
+      padding: 15px;
+      line-height: 20px;
+      background: #262626;
+    }
+    nav ul li ul li a {
+      padding-left: 30px;
+    }
+    .navbar-dropdown {
+      position: static;
+    }
+    @media screen and (min-width: 800px) {
+      .nav-list {
+        display: block !important;
+      }
+    }
+    #navbar-toggle {
+      position: absolute;
+      left: 18px;
+      top: -10px;
+      cursor: pointer;
+      padding: 10px 35px 16px 0px;
+    }
+
+    #navbar-toggle span,
+    #navbar-toggle span:before,
+    #navbar-toggle span:after {
+      cursor: pointer;
+      border-radius: 1px;
+      height: 3px;
+      width: 30px;
+      background: #ffffff;
+      position: absolute;
+      display: block;
+      content: '';
+      transition: all 300ms ease-in-out;
+    }
+    #navbar-toggle span:before {
+      top: -10px;
+    }
+    #navbar-toggle span:after {
+      bottom: -10px;
+    }
+    #navbar-toggle.active span {
+      background-color: transparent;
+    }
+    #navbar-toggle.active span:before,
+    #navbar-toggle.active span:after {
+      top: 0;
+    }
+    #navbar-toggle.active span:before {
+      transform: rotate(45deg);
+    }
+    #navbar-toggle.active span:after {
+      transform: rotate(-45deg);
+    }
+  }
+}
