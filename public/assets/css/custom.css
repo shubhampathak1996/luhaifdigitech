@@ -113,6 +113,45 @@ nav ul li a:not([href]):not([class]):hover {
   color: black;
   opacity: 0.75;
 }
+.single-case-study {
+  position: relative;
+}
+.bg-pdf {
+}
+.content-pdf {
+  list-style: none;
+  background: #fff;
+  display: none;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  width: 40px;
+  border-radius: 5px;
+  height: 40px;
+
+  transform-origin: top right;
+  position: absolute;
+  top: 20px;
+  right: 15px;
+  z-index: 2;
+  transition: all 0.3s ease 0s;
+}
+.pdf-i:hover .content-pdf {
+  display: block;
+  background: #e41d2e;
+}
+.pdf-i:hover .content-pdf i {
+  color: #fff;
+  animation-delay: 00.5s;
+  animation-duration: 0.5ms;
+}
+.pdf-i:hover .single-case-study img {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.content-pdf i {
+  color: #e41d2e;
+  margin: 10px;
+  font-size: 22px;
+}
 .blog-description h3 {
   font-weight: 600 !important;
   font-size: 1.5rem;
