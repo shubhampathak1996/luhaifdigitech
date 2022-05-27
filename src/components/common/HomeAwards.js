@@ -10,7 +10,7 @@ function HomeAwards() {
     slidesToShow: 1,
     slidesToScroll: 1,
     lazyLoad: true,
-
+    adaptiveHeight: true,
     autoplay: true,
     autoplaySpeed: 2000,
   }

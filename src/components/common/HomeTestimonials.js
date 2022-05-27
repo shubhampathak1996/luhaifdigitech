@@ -6,6 +6,7 @@ function HomeTestimonials() {
     dots: false,
     nav: false,
     arrows: false,
+    adaptiveHeight: true,
     infinite: true,
     speed: 500,
     slidesToShow: 1,
