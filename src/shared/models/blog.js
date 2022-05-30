@@ -2,7 +2,7 @@ export const BLOG = [
   {
     image: '/assets/images/blog/SMM_1.png',
     image2: '/assets/images/blog/SMM_2.png',
-    title: 'Choosing The Right Website Designing Company in Delhi',
+    title: '7 Reasons to Use social media for Business',
     // subtitle: 'Design Work',
     paragraph: ` <p>
     Social media marketing is one of the most essential elements of digital marketing, and it has affected a revolution in digital media platforms. Social media is now a valuable part of every marketing strategy. The medium has become a crucial element for success in marketing, and many marketers understand the potential of business growth by leveraging such platforms. For businesses, social media has built a space to convey a brand’s messaging to the right people at the right moment. If your content stands enough to attract an audience then it can drive traffic, sales, and even long-term loyalty.
@@ -39,7 +39,7 @@ export const BLOG = [
       <p>Social media is a land of new opportunities. There are countless personal and professional advantages of using social media. With a little love and care, we can start to develop and grow our brands into an epicenter of opportunity.</p>
       </p>`,
     link: '7-reasons-to-use-social-media-for-business',
-    date: ' May 26, 2022',
+    date: ' December 7, 2021',
   },
   {
     image: '/assets/images/blog/WD_2.png',
@@ -305,11 +305,11 @@ export const BLOG = [
     as well.
   </p>`,
     link: '7-reasons-to-use-social-media-for-business',
-    date: ' May 26, 2022',
+    date: 'November 16, 2021',
   },
   {
     image: '/assets/images/blog/VM_1-1.png',
-    title: '7 Reasons to Use social media for Business',
+    title: '6 WAYS TO USE CONTENT MARKETING FOR YOUR VIDEO PRODUCTION COMPANY',
     // subtitle: 'Design Work',
     paragraph: ` <p>
     Website Traffic is very crucial for a brand in today’s age.
@@ -571,7 +571,7 @@ export const BLOG = [
     as well.
   </p>`,
     link: '7-reasons-to-use-social-media-for-business',
-    date: ' May 26, 2022',
+    date: ' November 7, 2021',
   },
   {
     image: '/assets/images/blog/VM_1.png',
@@ -883,7 +883,7 @@ Let’s discuss the 10 reasons why you need digital marketing:
     date: 'April 17, 2021',
   },
   {
-    image: '/assets/images/blog/MS_1.png',
+    image: '/assets/images/blog/marketing-strategy1.jpg',
     image2: '/assets/images/blog/MS_2.png',
     title: 'How to Create a Digital Marketing Strategy?',
     // subtitle: 'Design Work'ing,
@@ -1063,5 +1063,589 @@ Let’s discuss the 10 reasons why you need digital marketing:
   `,
     link: 'the-benefits-of-responsive-web-design',
     date: 'December 23, 2020',
+  },
+  {
+    image: '/assets/images/blog/IOT_2 (1).png',
+    image2: '/assets/images/blog/IOT_1-1536x864.png',
+    title: 'What is the Internet of Things?',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>The <strong>Internet of Things</strong> also known as <strong><strong>IoT</strong></strong>, in simple terms means the billions of physical devices that are now connected to the internet around the world, all these devices collect and share data. The term <strong>IoT</strong> is mostly used for devices that wouldn’t normally be expected to have an internet connection, and that can communicate with the network independently of human action. For example for some specific reason, a PC isn’t generally considered an <strong>IoT</strong> device and similarly neither is a smartphone even though the latter is overloaded with sensors. On the other hand, a fitness band or a smartwatch or other wearable device might be counted as an <strong>IoT</strong> device.</p>
+
+     <p>
+     Therefore, in brief the <strong>Internet of Things</strong> is the concept of connecting any type of device as long as it has an on/off switch to the Internet and to other connected devices. The <strong>IoT</strong> is a huge network of connected people and things, all of them collect and share data about the method they are used or managed and about the environment around them.
+    </p>
+
+    <p>There are a number of objects of different shapes and sizes around us like fitness watches, driverless cars, microwaves and many more.</p>
+
+    <p>Hence, the <strong>Internet of Things</strong> is making the framework of the world around us smarter and more responsive by merging the digital and physical universes.</p>
+
+    <h3>How does it work?</h3>
+
+    <p>All the devices and objects with built in sensors are attached to an <strong>Internet of Things</strong> platform, which consolidates data from the different devices and applies analytics to share the most beneficial information with applications built to address specific requirements.</p>
+
+    <p>The powerful <strong>IoT</strong> platforms can precisely pinpoint exactly what information is beneficial and what can safely be overlooked. This information can be used to detect patterns, make recommendations, and detect possible problems before they take place. For example, if someone who owns a car manufacturing business, that person might want to know which optional components (like leather seats or alloy wheels) are the most prominent or fashionable.</p>
+
+    <p>Using <strong>Internet of Things</strong> technology, that person easily can:</p>
+
+    <p>Use sensors to detect which areas in a showroom are the most popular, and where customers stick around longest.
+    Drill down into the available sales data to recognize which elements are selling fastest.
+    Instinctively align sales data with supply, so that marketable or well-liked items don’t go out of stock.
+    The information collected by connected devices authorizes the person to make smart decisions about which elements to stock up on, based on real-time information, which helps him to save time and money.
+    </p>
+
+    <h3>Why is <strong>IoT</strong> important?</h3>
+
+    <p>The <strong>Internet of Things</strong> assists people to live and work smarter, and also gain complete control over their lives. In addition to offering smart devices to automate homes, <strong>IoT</strong> is essential to business. <strong>IoT</strong> offers businesses with a real-time look into how their systems really function, and delivers insights into everything from the functioning of machines to supply chain and logistics operations.</p>
+
+    <p>Therefore, <strong>IoT</strong> is one of the most influential technologies of everyday life, and it will continue to pick up steam as more businesses recognize the potential of connected devices to keep them competitive.
+    </p>
+
+    <p>The <strong>Internet of Things</strong> is actually a pretty simple concept, it means taking all the things in the world and connecting them to the internet.</p>
+   
+  `,
+    link: 'what-is-the-internet-of-things',
+    date: 'December 1, 2020',
+  },
+  {
+    image: '/assets/images/blog/CM_2 (2).png',
+    image2: '/assets/images/blog/CM_1-1536x864 (1).png',
+    title: 'Benefits of Content Marketing & How Content Marketing Can Modify Your Business',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>Content marketing is a strategic marketing technique focused on creating and distributing valuable, relevant, and consistent content to attract and retain a clearly defined audience and, ultimately, to drive profitable customer action.</p>
+
+    <p>Here sharing some Benefits of Content Marketing & How Content Marketing Can Modify Your Business:</p>
+
+    <h3>1. Content marketing manages conversions:</h3>
+    <p>One of the greatest advantages of content marketing is that it helps your company drive more conversions over time. According to research the companies who create consistent marketing content experience conversion rates that are practically 6 times higher than their competitors who don’t focus on convent marketing. This shows that tough content marketing frequently requires a significant investment of time, money, and resources, it ultimately pays off by leading to more conversions.</p>
+
+    <h3>2. Productive content will bring more traffic to your site: </h3>
+    <p>Publishing regular blog posts that are engaging and beneficial can assist you bring more traffic to your site over time. As per HubSpot, companies that published more than 16 blog posts per month got around 3.5 times more traffic than those companies that only published 4 or less posts. If you want to enhance site traffic, publish quality blog content more regularly on a more consistent schedule.</p>
+
+    <h3>3. Boost brand awareness with useful content that engages target buyers:</h3>
+    <p>There are consumers out there who are the best fit for your products or services, but they haven’t yet obtained the chance to know about your brand. By generating useful content that offers value for your target buyers, you can work to captivate these leads and help strengthen awareness for your brand. Brand awareness is one of the most crucial benefits of content marketing.</p>
+
+    <h3>4. You can utilize quality content to educate your customers: </h3>
+    <p>Your customers and leads have an issue that your brand can solve. The best way to educate your customers about their problems and your solution is by providing them with engaging content.</p>
+
+    <h3>5. Content can help you build trust with your target audience:</h3>
+    <p> The more you educate and offer value to your target audience, the more trust you can generate over time. You can start to establish a relationship with customers by educating and informing your target audience about their biggest challenges and pain points through blog posts and other types of content.</p>
+
+    <h3>6. Good content helps you generate and foster stronger customer relationships:</h3>
+    <p>If you want to motivate repeated business and turn customers into brand advocates, it’s important that you bring up your current customer relationships. One of the best methods to do this is to continue to offer value for your customers through quality, engaging content.</p>
+
+    <h3>7. Content helps you enhance search engine optimization (SEO) and online visibility: </h3>
+    <p>Many consumers turn to the search engines when they are checking for a product or service. Search engine optimization (SEO) is the procedure of optimizing your site to rank higher on the search engine results page (SERP). The more standard content you have, the better is your SEO.</p>
+
+    <h3>8. Content marketing is cost-efficient: </h3>
+    <p>Content marketing is more cost-efficient than many traditional outbound marketing tactics. Since content marketing is generally easier to get started with and more famous with customers who are tired of traditional advertising messages, this tactic can help in reducing the amount of money that marketers need to spend when engaging leads and customers.</p>
+
+  `,
+    link: 'benefits-of-content-marketing-how-content-marketing-can-modify-your-business',
+    date: 'November 2, 2020',
+  },
+  {
+    image: '/assets/images/blog/Ad_3 (1).png',
+    image2: '/assets/images/blog/Ad_1-1536x864 (1).png',
+    title: 'Increase Conversion Rate of Your Website with These Tips',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>Are you looking to improve your website conversions?</p>
+
+    <p>For that you need to understand first what exactly is a Conversion Rate?</p>
+
+    <p>Conversion rate is demonstrated in percentage form based on a ratio. It’s the part of your website visitors who convert or transform on an offer. Visitors can convert on lead magnets, webinar registrations, sales, and more. You can trace conversion rates for all of those activities.</p>
+
+    <p>Although, you can’t just trace the number of people who literally convert. You want to know how many people are detecting your content and what percentage of them actually purchase your product, sign up for your email list, or carry out any other desired activity. Do you know? Every feature of marketing is completely pointless unless it assembles conversions. If you’re not aware of your conversion rate now, then you’re not aware what components of your website or marketing strategy you need to enhance. Your conversions will likely fester as an outcome, which could result in critical lost profits.</p>
+
+    <p>Getting traffic to your website is significant, but if that traffic doesn’t transfigure, it’s almost worthless. This article will outline some demonstrated strategies for getting your visitors to take measure, whether that’s filling out a form, assisting over their email address or making a purchase.
+</p>
+
+    <h3>Include as little fields as feasible:</h3>
+    <p>When requesting for details in an email opt-in form, request for as little information as required. </p>
+
+    <h3>Add a guarantee: h3>
+    <p>Involve a no-questions-asked refund policy on all purchases. This minimizes risk, and increased sales will normally more than make up for any returns.</p>
+
+    <h3>Use substantial action verbs: </h3>
+    <p>When testing out different calls to action, try using action language that encourages visitors to take action (for example, “grab yours,” “reserve your seat”)</p>
+
+    <h3>Use testimonials:</h3>
+    <p>Testimonials minimize risk and furnish social proof. Utilize them on product landing pages as well as on your email opt-in landing page.</p>
+
+    <h3>Clearly state the advantages of your product or service: </h3>
+    <p>Listing the characteristics of your product is crucial, but it’s even more significant to tell potential customers precisely how your product will help them or solve their problem.</p>
+
+    <h3> Pay careful attention to your headline:</h3>
+    <p> Your headline is perhaps the single most crucial component of your landing page. Brainstorm at least 10 possibilities before selecting the strongest one.</p>
+
+    <h3>Use video to enlighten your brand:</h3>
+    <p>Include a simple video on landing pages to show there’s an authentic person behind your brand.</p>
+
+    <h3>Generate committed landing pages for pay-per-click ads: </h3>
+    <p>If you’re using AdWords or another form of PPC ads, ensure to send these visitors to a committed landing page (not your home page!).</p>
+
+    <h3>Embrace subscriber or social-media follower counts:</h3>
+    <p> Just like testimonials, including social proof helps minimize risk and enhance conversions.</p>
+
+    <h3>Recommend related products:</h3>
+    <p>Include links to corresponding content or products to keep visitors engaged and on your site.</p>
+
+    <h3>Conclusion</h3>
+
+    <p>Discovering how to enhance your conversion rate literally isn’t difficult. Here’s an overview if you need a handy checklist to follow:</p>
+    <p>Generate a conversion rate optimization approach based on your assumptions and existing data.
+    </p>
+    <p>Enhance your conversion funnel based on user behaviour.</p>
+    <p>Work out if you’re offering your audience the right offer.</p>
+    <p>Examine what’s working and what’s not.</p>
+    <p>Enhance each page’s design for conversions.
+    </p>
+    <p>Include testimonials to your landing pages and homepage.</p>
+    <p>Provide a money-back guarantee.</p>
+    <p>Broadcast videos to expand engagement.</p>
+    <p>Eliminate unnecessary distractions from the page.</p>
+    <p>Quicken up your site.</p>
+    <p>Accomplish these tips to improve your conversion rates by decreasing friction and enhancing your conversion funnel.</p>
+
+  `,
+    link: 'increase-conversion-rate-of-your-website-with-these-tips',
+    date: 'October 1, 2020',
+  },
+  {
+    image: '/assets/images/blog/int_2.png',
+    image2: '/assets/images/blog/int_1-1536x864.png',
+    title: 'The Importance of Internet in Life',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>In today’s tech world, the importance of the internet in our life is almost similar to oxygen. For most people, at times it’s difficult to be happy without the internet. Today, our world revolves around online reputation, internet marketing, online business, online degrees, social media presence, and internet banking. This is the most important reason behind the fact that the internet matters in our lives.
+    </p>
+
+    <p>Our lives are totally dependent on the Internet as we rely on the internet to get directions, recipes, DIYs, etc. in just a few seconds. Apart from that, the Internet is also one of the best time pass choices for us at the airport, in the car and train. For example, even if you have no clue about what to eat today in breakfast, lunch, and dinner then you can simply search the best food recipes on the internet. The Internet is always there to provide you freedom from food restrictions.
+    </p>
+
+    <p>In other terms, the Internet has opened a new world for thousands of people around the world. The internet is continuously providing different opportunities to different people. It is an expression of never-ending innovation and creativity. The internet knows no boundary but brings a wide economic opportunities for people in every country. The Internet allows people to enhance the quality of their life.
+    </p>
+
+    <h3>Why Does the Internet Matter the Most?</h3>
+    <p>The Internet has impacted almost every aspect of human life and this includes not only private life but also public services. Presently, nobody can prevent other individuals from revealing their private life to the public. For example, most of the couples and families even post the images or videos of their family vacation in remote areas.
+    </p>
+
+    <p>On the other side, the internet also permits the public to know what the government is doing. Now even people on the street know what is happening among the political parties and the government officials. It gives freedom to a company to what the competitors are doing and going to launch and similarly, allows the public to criticize what the producers offer. 
+    </p>
+
+    <h3>Future of Internet and Its Roles</h3>
+    <p>The Internet is for everyone. It moulds a new manifesto in business and public services. It provides energy for more people to mould their own life by creating advantages of the wide-open opportunities. Currently, more people are still the internet users, instead of network owners. However, along with its increasingly significant roles, the internet will become a universally approachable platform, which will permit people to have enhanced life quality. Although, to realize this, a regulation is necessary to make sure that everything is at the right line.
+    </p>
+
+    <h3>Use testimonials:</h3>
+    <p>Testimonials minimize risk and furnish social proof. Utilize them on product landing pages as well as on your email opt-in landing page.</p>
+
+    <h3>Clearly state the advantages of your product or service: </h3>
+    <p>Listing the characteristics of your product is crucial, but it’s even more significant to tell potential customers precisely how your product will help them or solve their problem.</p>
+
+    <h3> Pay careful attention to your headline:</h3>
+    <p> Your headline is perhaps the single most crucial component of your landing page. Brainstorm at least 10 possibilities before selecting the strongest one.</p>
+
+    <h3>Use video to enlighten your brand:</h3>
+    <p>Include a simple video on landing pages to show there’s an authentic person behind your brand.</p>
+
+    <h3>Generate committed landing pages for pay-per-click ads: </h3>
+    <p>If you’re using AdWords or another form of PPC ads, ensure to send these visitors to a committed landing page (not your home page!).</p>
+
+    <h3>Embrace subscriber or social-media follower counts:</h3>
+    <p> Just like testimonials, including social proof helps minimize risk and enhance conversions.</p>
+
+    <h3>Recommend related products:</h3>
+    <p>Include links to corresponding content or products to keep visitors engaged and on your site.</p>
+
+    <h3>Conclusion</h3>
+
+    <p>Discovering how to enhance your conversion rate literally isn’t difficult. Here’s an overview if you need a handy checklist to follow:</p>
+    <p>Generate a conversion rate optimization approach based on your assumptions and existing data.
+    </p>
+    <p>Enhance your conversion funnel based on user behaviour.</p>
+    <p>Work out if you’re offering your audience the right offer.</p>
+    <p>Examine what’s working and what’s not.</p>
+    <p>Enhance each page’s design for conversions.
+    </p>
+    <p>Include testimonials to your landing pages and homepage.</p>
+    <p>Provide a money-back guarantee.</p>
+    <p>Broadcast videos to expand engagement.</p>
+    <p>Eliminate unnecessary distractions from the page.</p>
+    <p>Quicken up your site.</p>
+    <p>Accomplish these tips to improve your conversion rates by decreasing friction and enhancing your conversion funnel.</p>
+
+  `,
+    link: 'the-importance-of-internet-in-life',
+    date: 'September 14, 2020',
+  },
+  {
+    image: '/assets/images/blog/SM_3.png',
+    image2: '/assets/images/blog/SM_1-1536x864.png',
+    title: 'Best Social Media Marketing Tips',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>Below are some of the social media marketing tips to kick off your social media campaigns:
+    </p>
+
+    <h3>Social Media Content Planning:</h3>
+    <p>The most important part about social media marketing is building a social media marketing plan. You can consider keyword research and competitive research as it will be effective in brainstorming content ideas that will interest your target audience. 
+    </p>
+
+    <h3>Great Social Content: </h3>
+    <p>Compatible with other areas of online marketing, content rules supreme when it comes to social media marketing. Ensure that you post regularly and offer truly worthy & valuable information that your target audience will find helpful and interesting. The content that you will be sharing on your social media platforms can include social media images, videos, infographics, how-to guides and more.
+    </p>
+
+    <h3>A Consistent Brand Image:</h3>
+    <p>Using social media for marketing lets your business project your brand image across a wide range of different social media platforms. As each platform has its own unique identity, your business’s fundamental identity, whether it’s friendly, fun, or trustworthy, should stay consistent.</p>
+
+    <h3>Social Media for Content Promotion: </h3>
+    <p>Social media marketing is a perfect platform for sharing your best site and blog content with your target audience. Once you start building a loyal following on social media, you’ll be able to post all your new content and make sure your readers can find new content right away. The best part is that content marketing and social media marketing benefit each other.</p>
+
+    <h3>Sharing Curated Links:</h3>
+    <p> While using social media for marketing is a significant way to strengthen your own unique, original content to gain loyal followers, it’s also a great chance to link to outside articles as well. Managing and linking to outside sources enhances trust and reliability, and you may even get some links in return.</p>
+
+    <h3>Tracking Competitors:</h3>
+    <p>It’s very important to keep an eye on competitors, they can provide precious data for keyword research and other social media marketing insight. If your competitors are using a certain social media marketing platform or approach that seems to be working for them, you can also consider doing the same thing, but obviously in a better way!</p>
+
+    <h3>Measuring Success with Analytics: </h3>
+    <p>It’s important to track your social media marketing strategies to determine the success. Google Analytics can be used as a good social media marketing tool that will assist you measure your most successful social media marketing approaches, as well as determine which approaches are better off abandoned. </p>
+
+    <h3>Embrace subscriber or social-media follower counts:</h3>
+    <p> Just like testimonials, including social proof helps minimize risk and enhance conversions.</p>
+
+    <h3>Recommend related products:</h3>
+    <p>Include links to corresponding content or products to keep visitors engaged and on your site.</p>
+
+    <h3>Conclusion</h3>
+
+    <p>Discovering how to enhance your conversion rate literally isn’t difficult. Here’s an overview if you need a handy checklist to follow:</p>
+    <p>Generate a conversion rate optimization approach based on your assumptions and existing data.
+    </p>
+    <p>Enhance your conversion funnel based on user behaviour.</p>
+    <p>Work out if you’re offering your audience the right offer.</p>
+    <p>Examine what’s working and what’s not.</p>
+    <p>Enhance each page’s design for conversions.
+    </p>
+    <p>Include testimonials to your landing pages and homepage.</p>
+    <p>Provide a money-back guarantee.</p>
+    <p>Broadcast videos to expand engagement.</p>
+    <p>Eliminate unnecessary distractions from the page.</p>
+    <p>Quicken up your site.</p>
+    <p>Accomplish these tips to improve your conversion rates by decreasing friction and enhancing your conversion funnel.</p>
+
+  `,
+    link: 'best-social-media-marketing-tips',
+    date: 'August 10, 2020',
+  },
+  {
+    image: '/assets/images/blog/ways_3.png',
+    image2: '/assets/images/blog/ways_4-1536x864.png',
+    title: '9 Ways To Improve Your Business During The Coronavirus Pandemic',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>As the spread of the Coronavirus pandemic continues and the hysteria increases, all of our small businesses are without a doubt taking a BIG hit. With social distancing increasing, we at <strong>Luhaif Digitech</strong> are trying to look on the bright side. When you run a small business, it is very time consuming and sometimes you forget to work on the internal workings that help our businesses run.
+    </p>
+
+    <p><strong>Improve Your Website:</strong> Have you been putting off that new web design? Do you have elements you have wanted to add but don’t want the website downtime? Well, we have some downtime. There may not be a right time with business paused than now, to enhance your company website.
+    </p>
+
+    <p><strong>Add Automation :</strong> Marketing automation is one of the four most popular techniques for generating personalized customer experiences. Even if it is something easier, like adding a chatbot to your website, automation will enhance your business efficiencies as it continues to expand once the coronavirus is behind us. 
+    </p>
+
+    <p><strong>Content Creation:</strong> Freshen up your brand by redesigning some of your marketing collateral. Here at Luhaif Digitech, we are in the procedure of doing just that. Get rid of the old flyers, business cards, and brochures and bring in some designs to upgrade your brand image. 
+    </p>
+
+    <p><strong>Search Engine Optimization:</strong> 70-80% of search engine users are only emphasizing on the organic results and investing in search has never been more crucial. Building an SEO strategy and executing it takes time, discipline and strategic execution.  
+    </p>
+
+    <p><strong>GoogleMy Business Page:</strong> A typical business encounters 59 actions from their Google My Business listing each month. On average, 56% of actions on Google My Business listings are website visits which offer a great opportunity to transform visitors into customers. Take some time and make sure you have a Google My Business Page and that it is fully working. Google has executed a lot of additions to the Google My Business platform recently.  
+    </p>
+
+    <p><strong>Get Reviews: </strong> Reviews are mandatory in gaining customers in the digital age. There is no excuse now for not reaching out to those customers you have done such a great job with to ask for a review. And better yet, they don’t have an excuse for not leaving you a review! In times like these, we need to help each other out. 
+    </p>
+
+    <p><strong>Send Thank You Notes to Clients:</strong> A simple thank you goes a long way in appreciating your customers or clients. Get out the pen and paper and send a thank you the old fashion way. It’s a great way to maintain high customer retention rates and an even better way to make someone’s day that may be in need of hearing some appreciation during this pandemic.
+    </p>
+
+    <p><strong>Start a Business Blog:</strong> Have you been wanting to include a blog section to your website? Get to typing’! A blog does miracles for your visitor engagement, visitor acquisition, and your website SEO.
+    </p>
+
+    <p><strong>Learn & Grow:</strong> We don’t know how many times we find an excuse to not pick up a book or dive into some up and coming marketing tactics. During our quarantine, the LEAST we can do is learn and grow as individuals and as professionals. Take a glance at some books on audible or dive down the YouTube rabbit hole for some industry-specific techniques you may need some refreshing on. 
+    </p>
+
+    <p>As we weather and fight the storm that is the coronavirus, know that <strong>Luhaif Digitech</strong> is here to assist you and your small business. We hope these nine ways to enhance your business during the Coronavirus pandemic have helped! If you need any further assistance during these hard times. PLEASE, don’t hesitate to reach out.</p>
+
+  `,
+    link: '9-ways-to-improve-your-business-during-the-coronavirus-pandemic',
+    date: 'April 15, 2020',
+  },
+  {
+    image: '/assets/images/blog/Bu_2.png',
+    image2: '/assets/images/blog/Bu_1-1536x864.png',
+    title: 'How to Grow Your Business Online During the Global Pandemic?',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>The Coronavirus outbreak has made many businesses wind up or at least work from home, compelling them to rework their Internet marketing strategies among many other things. The Young Presidents’ Organization (YPO) survey suggested that around 82% of business leaders are anticipating significant declines in revenues over the course of the next six months. These figures seem unfavourable. Then, how does a business owner conduct his marketing spend intelligently and stay floating during these times?
+    </p>
+
+    <h3>Make short-term and long-term strategies:</h3>
+    <p>We are not sure how long this pandemic will last. Hence, you need to form: </p>
+
+    <p><strong>Short term strategies </strong> to stay noticeable and pertinent during this difficult time. This is a perfect opportunity to focus on establishing a connection with your customer and doing some brand building
+    </p>
+
+    <p><strong>Long term strategies</strong> to recover from a business drop and bring back lost customers. 
+    </p>
+
+    <p>It doesn’t bother whether you’re a producing business or a service provider, your approaches would be broadly based on the same principle. 
+    </p>
+
+    <p><strong>Short term strategies</strong>Re-visit your keywords. Times have changed now and so have keyword searches on the search engine pages.  
+    </p>
+
+    <p>For example, if you’re a restaurant owner your keyword search may just have to change from “best restaurant in South Delhi” to “best cheese pizza”. Put out your restaurant videos on YouTube, Instagram and Facebook. You can also go for competitive SEO, to make sure your video ranked high and gets highest traffic. You could hold up this with ads and posts on social media.  
+    </p>
+
+    <p>Once more, it doesn’t matter what business you’re in, there are methods to working around how you can remain noticeable online.
+    </p>
+
+    <h3>Let your audience feel your presence</h3>
+    <p>Let your target audience know that you’re still throughout. Send your target audience emailers to let them know what you’re doing, whether you are delivering, giving food and shelter to the needy, helping your employees or just doing your bit by staying home and staying safe. This is a right time to get innovative and put this out in the form of videos on your social media platforms. They don’t have to price a thing.
+    </p>
+
+    <h3>CONCLUSION</h3>
+    <p>
+    Meanwhile, it is best to focus on your short-term strategies, because the future is quite uncertain. Stay concentrated on remaining visibility, not letting your target audience forget you and providing services in the best way that you can in the current scenario.
+    </p>
+
+    <p>If you would like some tips on how to rearrange or improve your online marketing strategy, you can get in touch with Luhaif Digitech. In the meanwhile, stay home and stay safe! 
+    </p>
+  `,
+    link: 'how-to-grow-your-business-online-during-the-global-pandemic',
+    date: 'March 23, 2020',
+  },
+  {
+    image: '/assets/images/blog/OM_2.png',
+    image2: '/assets/images/blog/OM_1-1536x864.png',
+    title: 'What does Online Marketing mean?',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>Online marketing is a collection of tools and approaches used for encouraging products and services through the internet. <strong>Online marketing</strong> encompasses an extensive range of marketing components than traditional business marketing due to the additional channels and marketing procedures available on the internet.
+    </p>
+
+    <h3>Online marketing can deliver advantages such as:</h3>
+    <p>Growth in potential </p>
+    <p>Minimized expenses </p>
+    <p>Distinguished communications </p>
+    <p>Superior control </p>
+    <p>Improved customer service</p>
+    <p>Competitive advantage</p>
+
+    <p><strong>Online marketing</strong> is also called <strong>Internet marketing</strong>, web marketing, search engine marketing (SEM) and digital marketing.
+    </p>
+
+    <p>The comprehensive online marketing spectrum diversified according to business requirements. Effective and functional online marketing programs leverage consumer data and customer relationship management (CRM) systems. Online marketing associates organizations with qualified and knowledgeable potential customers and takes business development to a much greater level than traditional marketing. 
+    </p>
+
+    <p><strong>Online marketing </strong> incorporates the internet’s innovative and technical tools, comprising design, development, sales and advertising, while concentrating on the following primary business models:  
+    </p>
+    <p>E-commerce</p>
+    <p>Lead-based websites</p>
+    <p>Associate marketing</p>
+    <p>Local search</p>
+
+    <h3>Online marketing has various advantages that includes:</h3>
+
+    <p><strong>Low costs:<strong>Enormous audiences are reachable at a fraction of traditional advertising budgets, authorizing businesses to generate captivating consumer ads.</p>
+
+    <p><strong>Flexibility and convenience: <strong>Consumers may research and buy products and services at their pleasure.</p>
+
+    <p><strong>Analytics: <strong>Well organized statistical results are accelerated without additional costs.
+    </p>
+
+    <p><strong>Multiple options:<strong>Advertising tools incorporate pay-per-click advertising, email marketing and local search integration (like Google Maps).</p>
+
+    <p><strong>Demographic targeting:<strong>Consumers can be demographically targeted much more productively in an online rather than an offline procedure.
+    The main hindrance of online marketing is the lack of manifestation, which signifies that consumers are incompetent to try out, or try on items they might wish to purchase. Beneficent return policies are the essential way to overcome such buyer apprehension.</p>
+
+    <p><strongOnline marketing<strong> has outsold traditional advertising in recent years and extends to be a flourishing industry.</p>
+
+    
+  `,
+    link: 'what-does-online-marketing-mean',
+    date: 'December 12, 2019',
+  },
+  {
+    image: '/assets/images/blog/DMS_2.png',
+    image2: '/assets/images/blog/DMS_1-1536x864.png',
+    title: 'What is a digital marketing strategy?',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>
+    A digital marketing strategy is a system needed for achieving your digital marketing goals. Your strategy demonstrates how you will achieve your motives, such as enhancing your conversion rate by five percent or expanding your lead generation rates by eight percent.
+    </p>
+
+    <h3>How to create a digital marketing strategy? </h3>
+    <h3>To create a digital marketing strategy you need to follow the steps mentioned below:</h3>
+    
+
+    <p><strong>1. Define your brand:</strong>  Figure or utilize your brand guidelines to define your brand and how it’ll pull through in your online campaigns. Consider your <strong>Unique Selling Points (USPs), brand representation</strong> , and <strong>value manifesto</strong>.
+    </p>
+
+    <p><strong>2. Intensify your buyer personas:</strong>  Discover whom you want to reach with custom buyer personas through your business. Consider points like user demographics, as well as the motivations that drive people to select your company, products, and services.
+    </p>
+
+    <p><strong>3.Create your S.M.A.R.T. objectives:</strong>  
+     Use specific, measurable, achievable, realistic, and timely objectives (also known as S.M.A.R.T. objectives) to manage your strategy. Consider your organization’s short- and long-term objectives for growth and development.
+    </p>
+
+    <p><strong>4.Select your digital marketing strategies:</strong>  
+     Choose the foremost strategies for your business. Emphasize on the approaches that provide the most benefits for your business and industry, contrary to trendy strategies.
+    </p>
+
+    <p><strong>5.Regulate your digital marketing budget:</strong>  
+     Research digital marketing pricing to create a practical budget for your business. For example, most businesses spend $2500 to $12,000 per month on online marketing.
+    </p>
+
+    <p><strong>6.Brainstorm your strategy:</strong>  
+      Lead your strategy to accomplishment by planning and organizing your strategy. For example, if you’re advertising, calculate your ad spend OR if you’re publishing content, create your content calendar.
+    </p>
+
+    <p><strong>7.Launch your campaigns:</strong>  
+      You can launch your different campaigns across several channels by simply following your planning. Make sure that all your channels feature the appropriate tracking details. For example, your website should feature your Google Analytics tracking code.
+    </p>
+
+    <p><strong> 8.Track your results:</strong>  
+    Observe and examine the performance of your strategies by tracking their performance. For examination, you can use tools like Google Analytics, Google Search Console, and Google Ads to keep an eye on your strategies and their return on investment (ROI).
+    </p>
+
+    <p>Therefore, by following the above steps you can create a successful digital marketing strategy. 
+    </p>
+
+  `,
+    link: 'what-is-a-digital-marketing-strategy',
+    date: 'November 5, 2019',
+  },
+  {
+    image: '/assets/images/blog/DM_5.png',
+    image2: '/assets/images/blog/DM_1-1536x864.png',
+    title: 'Best Digital Marketing Company in India',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>
+    Few decades back, we used to live in a world in which we had to send letters in order to communicate with people and then wait for a couple of days to get the reply of those letters. But on the other hand, if we talk about today’s world, we live in a world where we have access to the internet, social media, on which we can get immediate replies. The world has definitely been modified by leaps and bounds. 
+    </p>
+
+    <p>Hence, we all are very well aware that the internet helps us to get instant replies in just a few seconds. Similarly, we can use the internet for our businesses as well as customer feedback is the utmost important thing in any kind of business. This can be done by simply developing websites and applications of your businesses that can take the suggestions of your valuable customers and thus it will obviously help you in filling up gaps in your businesses.
+    </p>
+
+    <p>Digital Marketing is one of the most effective ways of marketing because you can easily tell the advertisements you saw on your mobile phones. To make your business the best, you need an agency which can benefit your business with good digital marketing services with deep knowledge and awareness of all basic services.
+    </p>
+
+    <p> <strong>Luhaif Digitech</strong>, the best SEO Company in India is dedicated to deliver an extensive range of digital marketing services, which can furnish an exceptional growth to your business. We are a one-stoppage digital marketing agency based in Delhi, our services include Internet Marketing, Website Design, SEO Packages, Search Engine Optimization, Social Media Optimization, Content Marketing, Logo Designing, etc. We at <strong>Luhaif Digitech</strong>, believe that every website is unique and we prioritise the characteristics accordingly. Our process includes Research, Plan and then Action to reach the target audience, engage and convert them.
+    </p>
+
+    <p>We are a full-service digital marketing company based in Delhi. Through good digital marketing <strong>Luhaif Digitech</strong> helps you to promote your goods and services. Whether you’re a start-up or an established brand, we do brand management and establish your unique identity in marketing. Once your business is established, we optimize your website and content in order to make your visibility in search engines on higher position.
+    </p>
+
+    <p>As the best SEO Company in India, we have been working hard to implement innovation as an essential part of everything we do. With a collaborative experience of 11 years, we offer professional and affordable digital marketing services that are especially designed to transform your online business from an underdog to a global brand. We have a zealous and energetic team working for a top notch solution and services with deep understanding of technology with creativity. Our motive is to ensure that you get the brand presence that you want.
+    </p>
+
+    <p><strong>Luhaif Digitech</strong> being the best digital marketing agency understands the ever-growing prospects of the web and provides one-stop solutions to help your business grasp this vast potential. We are confined towards achieving best deals and result to our clients for an aided value of brand image in the marketing sector. 
+    </p>
+
+    <p>We as the best digital marketing company utilize a blend of digital channels to enhance the visibility, revenues and conversion of our client’s businesses.
+    </p>
+
+    <p><strong>7.Launch your campaigns:</strong>  
+      You can launch your different campaigns across several channels by simply following your planning. Make sure that all your channels feature the appropriate tracking details. For example, your website should feature your Google Analytics tracking code.
+    </p>
+
+    <p><strong> 8.Track your results:</strong>  
+    Observe and examine the performance of your strategies by tracking their performance. For examination, you can use tools like Google Analytics, Google Search Console, and Google Ads to keep an eye on your strategies and their return on investment (ROI).
+    </p>
+
+    <p>Therefore, by following the above steps you can create a successful digital marketing strategy. 
+    </p>
+
+  `,
+    link: 'best-digital-marketing-company-in-india',
+    date: 'August 7, 2019',
+  },
+  {
+    image: '/assets/images/blog/OL_2.png',
+    image2: '/assets/images/blog/OL_1-1536x864.png',
+    title: 'What Is Online Marketing?',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>
+    Online marketing is the procedure of powering web-based channels to spread a message about a company’s brand, products, or services to its capable and potential customers. The procedures and techniques used for online marketing incorporate email, social media, display advertising, search engine optimization, Google AdWords and more. The mission of marketing is to reach potential customers through the channels where they spend their time reading, searching, shopping, and socializing online.
+    </p>
+
+    <p>Extensive adoption of the internet for business and personal use has created new channels for advertising and marketing engagement, incorporating those mentioned above. There are also many advantages and challenges inherent to online marketing, which utilizes essentially digital mediums to attract, involve, and convert virtual visitors to customers.
+    </p>
+
+    <p>Online marketing is different from traditional marketing, which has retrogressively included mediums like print, billboard, television and radio advertisements.
+    </p>
+
+    <p>Before online marketing channels appeared, the cost to market products or services was at times prohibitively expensive, and traditionally difficult to measure. Think of national TV ad campaigns, which are quantified through consumer focus groups to determine levels of brand awareness. These procedures are traditionally not well-suited to controlled experimentation. Presently, anyone with an online business (as well as most offline businesses) can engage in online marketing by generating a website and creating customer acquisition campaigns at very minimum cost. Those marketing products and services also have the capability to investigate with optimization to fine-tune their campaigns’ efficiency and ROI.
+    </p>
+
+    <h3>Benefits Of Online Marketing
+    </h3>
+    <p>A fundamental benefit of using online channels for marketing a business or product is the capability to quantify the influence of any given channel, as well as how visitors obtained through various channels interact with a website or landing page experience. Of the visitors that transfigure into paying customers, further analysis can be done to discover which channels are most successful at acquiring valuable customers.
+    </p>
+
+    <h3>Analytics for web or mobile app experiences can help discover the following:</h3>
+    <p>Which online marketing channels are the most cost-effective at obtaining customers, based on the transformation rate of visitors to customers, and the cost of those visitors?
+    </p>
+
+    <p>Which channels are successful at acquiring and driving extensive lifetime value for customers like email marketing, which drives repeat purchases to prior customers? 
+    </p>
+
+    <p>We as the best digital marketing company utilize a blend of digital channels to enhance the visibility, revenues and conversion of our client’s businesses.
+    </p>
+
+    <p>
+    Which group of customers reveal strong engagement behaviour and high powered for upsells like software or mobile apps, which expect to sell more products to customers with high involvement?
+    </p>
+
+  `,
+    link: 'what-is-online-marketing/',
+    date: 'June 21, 2019',
+  },
+  {
+    image: '/assets/images/blog/web_design_blog.png',
+    image2: '/assets/images/blog/WD_1-1536x864.png',
+    title: 'Website Design and Development Company',
+    // subtitle: 'Design Work'ing,
+    paragraph: `
+    <p>
+    A website makes one of the most crucial elements of any brand and plays an important role in marketing. <strong>Luhaif Digitech’s</strong> website design and development services function around working in a way to line up every small component that goes into bringing up an effective website. So, all the marketing supports and functions towards directing the traffic to the website. With the advancement in website designing and development technology in all these years, being the <strong>best Website Designing and Development Company</strong> in Delhi we have digital marketing tools than ever before. 
+    </p>
+
+    <p>Our well-designed websites are assisted by social media, blogs and mobile to easily target and convert users with web application development that provides positive user experience or UX. <strong>Luhaif Digitech</strong> , as a web designing company in India, ensures that your digital marketing objectives work in sync with the designs that are fabricated. In this procedure getting to know the owner, his company, and overall the target audience is the first step adopted by any web design and development company in India and does not differ from this procedure. 
+    </p>
+
+    <p>Then the design concepts that are initiated meet and exceed the expectations and thoroughly assists in achieving the marketing goals. On the whole, Website Designing and Development are two very wide concepts that incorporate different skills and stages to bring up the whole website. Luhaif Digitech goes a long way starting from ideation and communication to taking the design on the development stage. The whole procedure requires transparency in terms of what the website is going to achieve. Therefore, the design and development are done all over the website.
+    </p>
+
+    <p><strong>Luhaif Digitech</strong> is the <strong>best Web Designing and Development Company in Delhi</strong> to be involved in the motives you need for your business. We start by developing a professional relationship with the clients to assemble the broad understanding of the requirements. At last, this understanding is converted into a website specification. This includes strong design and communication skills clubbed with some research methods. Our main motive, as a Website Designing Company is to offer strategic planning and industry’s best product to compete in the market.
+    </p>
+
+    <p><strong>Luhaif Digitech</strong> is one of the <strong>best Website Development Company in Delhi NCR</strong>, India. We intensively understand the motive of website development for each of our clients. Whether you are looking at boosting sales of your physical products through online presence or selling digitals products or may be seeking it as a means of advertisement to your clients.
+    </p>
+
+    <p>Being a Leading <strong>Website Designing company in Delhi, Luhaif Digitech</strong> have a team of dedicated and skilled professionals that will thoroughly understand what all can be achieved through a website for your website and consequently provide you the best possible website development solution for your business needs. We use advanced platforms for web development like Word press and Magento to provide you the most effective websites. Everything is done to have a grasp on target audiences, markets and trends, which ensures initial client satisfaction and reliability for us as a web application development company.
+    </p>
+
+    <p>This perspective has made us the Best Website Designing and Development Company in Delhi NCR, India. 
+    </p>
+  `,
+    link: 'website-design-and-development-company',
+    date: 'March 9, 2019',
   },
 ]

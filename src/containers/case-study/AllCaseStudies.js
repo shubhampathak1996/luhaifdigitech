@@ -9,7 +9,7 @@ function AllCaseStudies() {
   return (
     <div>
       <Header />
-      <PageBanner title={'All Case Study'} />
+      <PageBanner title={'Case Studies'} />
       <section className="case-study ptb-50">
         <div className="container">
           <div className="row">

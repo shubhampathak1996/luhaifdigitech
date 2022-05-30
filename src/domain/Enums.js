@@ -11,10 +11,10 @@ export const SERVICE_MENU = [
     name: 'Website Design & Development',
     link: 'website-design-and-development',
   },
-  {
-    name: 'Social Media',
-    link: 'social-media',
-  },
+  // {
+  //   name: 'Social Media',
+  //   link: 'social-media',
+  // },
   {
     name: 'NGO Fundraising Campaigns',
     link: 'ngo-fundraising-campaigns',

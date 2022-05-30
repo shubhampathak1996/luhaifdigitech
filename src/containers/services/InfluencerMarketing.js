@@ -232,45 +232,7 @@ function InfluencerMarketing() {
         </div>
       </section>
 
-      <section className="pointer ptb-50">
-        <div className="container">
-          <div className="row">
-            <div className="col-md-8 mx-auto">
-              <h3>
-                We create a tailored market segment for our audience to help
-                advertise products and services in order to engage new
-                customers.
-              </h3>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-md-4">
-              <div className="service-main-img">
-                <img src="/assets/images/social-media.jpg" />
-                <div className="service-main-content">
-                  <h3>SOCIAL MEDIA CAMPAIGNS</h3>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-4">
-              <div className="service-main-img">
-                <img src="/assets/images/social-media.jpg" />
-                <div className="service-main-content">
-                  <h3>DEDICATED ACCOUNT MANAGER</h3>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-4">
-              <div className="service-main-img">
-                <img src="/assets/images/social-media.jpg" />
-                <div className="service-main-content">
-                  <h3>MONTHLY SMM REPORTS</h3>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+     
 
       <section className="faq ptb-50">
         <div className="container">

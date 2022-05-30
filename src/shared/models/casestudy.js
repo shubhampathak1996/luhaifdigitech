@@ -1,23 +1,23 @@
 export const CASESTUDY = [
   {
-    image: 'https://luhaifdigitech.com/images/case-study/app-intro.png',
-    title: 'DERMAPURITYS',
+    image: 'assets/images/portfolio/app-img4.jpg',
+    title: 'Dermapuritys',
 
     subtitle: 'Skin Care Clinic',
-    link: 'https://luhaifdigitech.com/case_study/Case_Study _derma.pdf',
+    link: 'https://luhaifdigitech.com/case_study/CaseStudy_Derma.pdf',
   },
   {
-    image: 'https://luhaifdigitech.com/images/case-study/app-intro.png',
-    title: 'DERMAPURITYS',
+    image: 'assets/images/portfolio/app-img8.jpg',
+    title: 'Naitonal NGO',
 
-    subtitle: 'Skin Care Clinic',
-    link: 'https://luhaifdigitech.com/case_study/Case_Study _derma.pdf',
+    subtitle: 'NGO',
+    link: 'https://luhaifdigitech.com/case_study/CaseStudy_National_NGO.pdf',
   },
   {
-    image: 'https://luhaifdigitech.com/images/case-study/app-intro.png',
-    title: 'DERMAPURITYS',
+    image: 'assets/images/portfolio/makup.jpg',
+    title: 'Pooja Walia Studio',
 
-    subtitle: 'Skin Care Clinic',
-    link: 'https://luhaifdigitech.com/case_study/Case_Study _derma.pdf',
+    subtitle: 'Makeup Studio ',
+    link: 'https://luhaifdigitech.com/case_study/CaseStudy_PoojaWaliaStudio.pdf',
   },
 ]
