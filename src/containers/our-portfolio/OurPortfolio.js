@@ -10,6 +10,7 @@ import Clients from '../../components/common/Clients'
 function OurPortfolio() {
   const [portfolio, setportfolio] = useState(PORTFOLIO)
   const [activemenu, setActivemenu] = useState('ALL')
+  
   useEffect(() => {
     if (activemenu != 'ALL') {
       const filterData = PORTFOLIO.filter((item) => item.category == activemenu)
