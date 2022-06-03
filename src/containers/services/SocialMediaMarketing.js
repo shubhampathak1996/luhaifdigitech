@@ -216,27 +216,23 @@ function SocialMediaMarketing() {
           <div className="row">
             <Slider {...services}>
               <div className="service-main-img">
-                <img src="/assets/images/socialmedia.jpg" />
+                <img src="/assets/images/1.png" />
                 <div className="service-main-content">
-                  <h3>SOCIAL MEDIA MARKETING</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
+                <img src="/assets/images/4.png" />
                 <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
+                <img src="/assets/images/5.png" />
                 <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
+                <img src="/assets/images/2.png" />
                 <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
                 </div>
               </div>
             </Slider>

@@ -227,27 +227,33 @@ function SearchEngineOptimisation() {
           <div className="row">
             <Slider {...services}>
               <div className="service-main-img">
-                <img src="/assets/images/socialmedia.jpg" />
+                <img src="/assets/images/seo_contentMarketing/Content_Mar_01.png" />
                 <div className="service-main-content">
-                  <h3>SOCIAL MEDIA MARKETING</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
+                <img src="/assets/images/seo_contentMarketing/Content_Mar_02.png" />
                 <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
+                <img src="/assets/images/seo_contentMarketing/Content_Mar_03.png" />
                 <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
+                <img src="/assets/images/seo_contentMarketing/Content_Mar_04.png" />
                 <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
+                </div>
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/seo_contentMarketing/Content_Mar_05.png" />
+                <div className="service-main-content">
+                </div>
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/seo_contentMarketing/Content_Mar_06.png" />
+                <div className="service-main-content">
                 </div>
               </div>
             </Slider>

@@ -215,42 +215,34 @@ function NidhiSoftware() {
           <div className="row">
             <Slider {...services}>
               <div className="service-main-img">
-                <img src="/assets/images/nidhiSoftware/01.jpg" />
+                <img src="/assets/images/nidhiSoftware/Nidhi_01.png" />
                 <div className="service-main-content">
-                  <h3>Nidhi Software</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/nidhiSoftware/02.jpg" />
+                <img src="/assets/images/nidhiSoftware/Nidhi_01.png" />
                 <div className="service-main-content">
-                  <h3>Nidhi Software</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/nidhiSoftware/03.jpg" />
+                <img src="/assets/images/nidhiSoftware/Nidhi_01.png" />
                 <div className="service-main-content">
-                  <h3>Nidhi Software</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/nidhiSoftware/04.jpg" />
+                <img src="/assets/images/nidhiSoftware/Nidhi_01.png" />
                 <div className="service-main-content">
-                  <h3>Nidhi Software</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/nidhiSoftware/05.jpg" />
+                <img src="/assets/images/nidhiSoftware/Nidhi_01.png" />
                 <div className="service-main-content">
-                  <h3>Nidhi Software</h3>
                 </div>
               </div>
             </Slider>
           </div>
         </div>
       </section>
-
- 
-
       <section className="faq ptb-50">
         <div className="container">
           <div className="row">

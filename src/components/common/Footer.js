@@ -144,7 +144,7 @@ function Footer() {
                   }}
                 >
                   <img
-                    src="/assets/images/newyork.png"
+                    src="/assets/images/cityImages/usa.png"
                     alt="New York"
                     className="img-fluid"
                   />
@@ -176,7 +176,7 @@ function Footer() {
                   }}
                 >
                   <img
-                    src="/assets/images/newyork.png"
+                    src="/assets/images/cityImages/delhi.png"
                     alt="New York"
                     className="img-fluid"
                   />
@@ -184,6 +184,11 @@ function Footer() {
                 <div className="office-text">
                   <h4>Delhi</h4>
                   <p>E-16 Gk-1 Greater Kailash, New Delhi, Delhi 110048</p>
+                  <span className="footer-f">
+                  <span><i className="fa fa-phone-square" /> <b>Call:</b>
+                  </span>
+                  <span><a href="tel: +971-05269786823"> +91-93540 29973</a></span>
+                </span>
                   <a
                     href="https://goo.gl/maps/2JXd3rjBBMcyHN7L7"
                     target="blank"
@@ -208,7 +213,7 @@ function Footer() {
                   }}
                 >
                   <img
-                    src="/assets/images/newyork.png"
+                    src="/assets/images/cityImages/canada.png"
                     alt="New York"
                     className="img-fluid"
                   />
@@ -245,7 +250,7 @@ function Footer() {
                   }}
                 >
                   <img
-                    src="/assets/images/newyork.png"
+                    src="/assets/images/cityImages/dubai.png"
                     alt="New York"
                     className="img-fluid"
                   />
@@ -253,6 +258,11 @@ function Footer() {
                 <div className="office-text">
                   <h4>Dubai</h4>
                   <p>201, Al Reyami building, Umm Hurair street, Dubai</p>
+                  <span className="footer-f">
+                    <span><i className="fa fa-phone-square" /> <b>Call:</b>
+                    </span>
+                    <span><a href="tel: +971-05269786823"> +971-0526978682</a></span>
+                  </span>
                   <a
                     href="https://g.page/reyamitech"
                     target="blank"

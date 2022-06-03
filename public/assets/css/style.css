@@ -856,6 +856,21 @@ h3 {
   font-weight: 600;
   font-size: 15px;
 }
+.footer-f i {
+  font-size: 1.1rem;
+  margin-right: 5px;
+}
+.footer-f span a {
+  margin-right: 10px;
+  font-size: 1.2rem;
+  color: rgb(34, 34, 35);
+  font-weight: 700;
+}
+.footer-f{
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
 /* .text h4::after {
   content: '';
   width: 100px;

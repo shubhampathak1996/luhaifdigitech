@@ -216,35 +216,27 @@ function CrmLead() {
           <div className="row">
             <Slider {...services}>
               <div className="service-main-img">
-                <img src="/assets/images/socialmedia.jpg" />
-                <div className="service-main-content">
-                  <h3>SOCIAL MEDIA MARKETING</h3>
-                </div>
+                <img src="/assets/images/crmServices/crm_01.jpg" />
+
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <img src="/assets/images/crmServices/crm_02.jpg" />
+
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <img src="/assets/images/crmServices/crm_03.jpg" />
+
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <img src="/assets/images/crmServices/crm_04.jpg" />
+
               </div>
             </Slider>
           </div>
         </div>
       </section>
 
-     
+
 
       <section className="faq ptb-50">
         <div className="container">

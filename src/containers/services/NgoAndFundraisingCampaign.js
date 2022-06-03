@@ -228,27 +228,33 @@ function NgoAndFundraisingCampaign() {
           <div className="row">
             <Slider {...services}>
               <div className="service-main-img">
-                <img src="/assets/images/socialmedia.jpg" />
+                <img src="/assets/images/ngoService/NGO_&_Fundr_01.png" />
                 <div className="service-main-content">
-                  <h3>SOCIAL MEDIA MARKETING</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
+                <img src="/assets/images/ngoService/NGO_&_Fundr_02.png" />
                 <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
+                <img src="/assets/images/ngoService/NGO_&_Fundr_03.png" />
                 <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
+                <img src="/assets/images/ngoService/NGO_&_Fundr_04.png" />
                 <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
+                </div>
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/ngoService/NGO_&_Fundr_05.png" />
+                <div className="service-main-content">
+                </div>
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/ngoService/NGO_&_Fundr_06.png" />
+                <div className="service-main-content">
                 </div>
               </div>
             </Slider>

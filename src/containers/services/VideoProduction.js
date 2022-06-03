@@ -222,35 +222,66 @@ function VideoProduction() {
           <div className="row">
             <Slider {...services}>
               <div className="service-main-img">
-                <img src="/assets/images/socialmedia.jpg" />
-                <div className="service-main-content">
-                  <h3>SOCIAL MEDIA MARKETING</h3>
-                </div>
+                <iframe
+                  width={'100%'}
+                  height={300}
+                  src={`https://www.youtube.com/embed/0KCJEyaJucI`}
+                  title="YouTube video player"
+                  frameBorder={0}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                />
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <iframe
+                  width={'100%'}
+                  height={300}
+                  src={`https://www.youtube.com/embed/sAX_doZEfn4`}
+                  title="YouTube video player"
+                  frameBorder={0}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                />
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <iframe
+                  width={'100%'}
+                  height={300}
+                  src={`https://www.youtube.com/embed/qyVNdBlireU`}
+                  title="YouTube video player"
+                  frameBorder={0}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                />
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <iframe
+                  width={'100%'}
+                  height={300}
+                  src={`https://www.youtube.com/embed/BMcFH_E-psc`}
+                  title="YouTube video player"
+                  frameBorder={0}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                />
+              </div>
+              <div className="service-main-img">
+                <iframe
+                  width={'100%'}
+                  height={300}
+                  src={`https://www.youtube.com/embed/miSJ_Puvq34`}
+                  title="YouTube video player"
+                  frameBorder={0}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                />
               </div>
             </Slider>
           </div>
         </div>
       </section>
 
-    
+
 
       <section className="faq ptb-50">
         <div className="container">

@@ -217,27 +217,28 @@ function DigitalMarketing() {
           <div className="row">
             <Slider {...services}>
               <div className="service-main-img">
-                <img src="/assets/images/portfolio/digital_campaigns/01.png" />
+                <img src="/assets/images/3.png" />
                 <div className="service-main-content">
-                  <h3>INFLUENZR</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/portfolio/digital_campaigns/05.png" />
+                <img src="/assets/images/3_3.png" />
                 <div className="service-main-content">
-                  <h3>DermaPuritys</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/portfolio/digital_campaigns/10.png" />
+                <img src="/assets/images/3_2.png" />
                 <div className="service-main-content">
-                  <h3>Aroma Ladies Beauty Parlour</h3>
                 </div>
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/portfolio/digital_campaigns/04.png" />
+                <img src="/assets/images/2_3.png" />
                 <div className="service-main-content">
-                  <h3>National NGO, Fundraising Video</h3>
+                </div>
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/2_2.png" />
+                <div className="service-main-content">
                 </div>
               </div>
             </Slider>

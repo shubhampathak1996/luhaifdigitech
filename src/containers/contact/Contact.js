@@ -150,7 +150,7 @@ function Contact() {
                   </div>
                 </div>
                 <div className="submit-button">
-                  <button className="btn btn-all">Sumbit</button>
+                  <button className="btn btn-all btn-main">Sumbit</button>
                 </div>
               </div>
             </div>

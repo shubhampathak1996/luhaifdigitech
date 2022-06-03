@@ -212,28 +212,19 @@ function PerformanceMarketing() {
           <div className="row">
             <Slider {...services}>
               <div className="service-main-img">
-                <img src="/assets/images/socialmedia.jpg" />
-                <div className="service-main-content">
-                  <h3>SOCIAL MEDIA MARKETING</h3>
-                </div>
+                <img src="/assets/images/portfolio/digital_campaigns/03.png" />
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <img src="/assets/images/portfolio/digital_campaigns/04.png" />
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <img src="/assets/images/portfolio/digital_campaigns/05.png" />
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <img src="/assets/images/portfolio/digital_campaigns/06.png" />
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/portfolio/digital_campaigns/07.png" />
               </div>
             </Slider>
           </div>
@@ -241,7 +232,7 @@ function PerformanceMarketing() {
       </section>
 
 
-    
+
 
       <section className="faq ptb-50">
         <div className="container">

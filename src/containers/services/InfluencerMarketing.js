@@ -204,35 +204,51 @@ function InfluencerMarketing() {
           <div className="row">
             <Slider {...services}>
               <div className="service-main-img">
-                <img src="/assets/images/socialmedia.jpg" />
-                <div className="service-main-content">
-                  <h3>SOCIAL MEDIA MARKETING</h3>
-                </div>
+                <img src="/assets/images/influencerMarketing/Akshara.80c16051.png" />
+
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <img src="/assets/images/influencerMarketing/Pallavi.3a379170.png" />
+
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <img src="/assets/images/influencerMarketing/Preeti.e1450715.png" />
+
               </div>
               <div className="service-main-img">
-                <img src="/assets/images/website.jpg" />
-                <div className="service-main-content">
-                  <h3>WEBSITE DESIGN & DEVELOPMENT</h3>
-                </div>
+                <img src="/assets/images/influencerMarketing/Simran.55a9a54e.png" />
+
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/influencerMarketing/Siddhi.747131e7.ac353d31.webp" />
+
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/influencerMarketing/Seema_Khan.65138aca.png" />
+
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/influencerMarketing/Sheena.2a349d99.3b47b146.webp" />
+
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/influencerMarketing/Shivangi.a1c0cfe9.37ec4983.webp" />
+
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/influencerMarketing/Umesh_Dutt.d01ccc28.png" />
+
+              </div>
+              <div className="service-main-img">
+                <img src="/assets/images/influencerMarketing/Upalina_.bff4e90e.d8881556.webp" />
+
               </div>
             </Slider>
           </div>
         </div>
       </section>
 
-     
+
 
       <section className="faq ptb-50">
         <div className="container">
